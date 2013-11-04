@@ -1,0 +1,23 @@
+{
+  "name": "jquery-empty-or-whitespace",
+  "version": "0.0.0",
+  "description": "jquery plugin that adds a CSS class to elements that are empty or contain only whitespace.",
+  "main": "jquery.empty-or-whitespace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alanshaw/jquery-plugin-empty-or-whitespace.git"
+  },
+  "keywords": [
+    "jquery",
+    "empty",
+    "whitespace"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/jquery-plugin-empty-or-whitespace/issues"
+  }
+}
