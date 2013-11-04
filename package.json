@@ -1,6 +1,6 @@
 {
   "name": "jquery-empty-or-whitespace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "jquery plugin that adds a CSS class to elements that are empty or contain only whitespace.",
   "main": "jquery.empty-or-whitespace.js",
   "scripts": {
